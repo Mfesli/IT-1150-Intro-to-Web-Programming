@@ -1,0 +1,58 @@
+<!--Course: IT1150 Intro to Web Programming
+    Semester: Fall 2022
+    Student: Mahmut Fesli
+    email: S01212429@acad.tri-c.edu
+    Lab1: Answer the questions.-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lab 1</title>
+<!--We are defining a Class that add 30px indent in left margine-->
+<style type="text/css">
+  .indent { margin-left: 30px; }
+</style>
+<!--We are defining a Class that add 50px indent in left margine-->
+<style type="text/css">
+  .indent1 { margin-left: 50px; }
+</style>
+</head>
+<body>
+<!-- Answer the following questions in html -->
+<b>Describe the purpose of HTML and CSS.</b>
+<p class="indent">The purpose of HTML is to define the content and structure of a WEB Page.
+</p>
+<p class="indent">The purpose of CSS is to format the content of the WEB Page.
+</p>
+<b>What is the W3C and how is it important to web development?</b>
+<p class="indent">The World Wide Web Consortium (W3C) is an international organization committed to improving the web. It is made up of several hundred member organizations from a variety of IT related industries. W3C sets standards for the World Wide Web (WWW) to facilitate interoperability and cooperation among all web stakeholders.
+</p>  
+<b>What is the difference between a text editor and a development tool? Give an example of each.</b>
+<p class="indent">A text editor is simply a computer program and a tool used for editing plain text. An Integrated Development Environment (IDE), on the other hand, is a full-fledge software environment that consolidates basic developer tools required to build and test software. <b>Notepad, VS Code, and TextMate</b> are some samples for the text editor. And we can use <b>Microsoft Visual Studio, and Adobe Dreamweaver</b> as IDE plartform.
+</p>    
+<b>Explain the main components of an HTTP URL.</b>
+<p class="indent">The main components of an URL (https://sample.com/courses/filename.htm) are:
+<p class="indent1"> Protocol: HTTP or HTTPS. In this sample the protocol is a secured HTTPS.</P> 
+<p class="indent1"> Host or Domain Name: In this sample the domain name is sample.com.</P> 
+<p class="indent1"> Port or Path: In this sample the path is courses.</P> 
+<p class="indent1"> File name: In this sample the filename is filename.htm. </P> 
+</p>
+<b>What is ADA and how does it relate to web development?</b>
+<p class="indent">ADA compliance testing refers to the Americans with Disabilities Act Standards for Accessible Design, which states that all electronic and information technology (like websites) must be accessible to people with disabilities.</p>  
+<b>Use Google to search for “search engine optimization.” Explore a couple of links for more information.  Describe the major factors in “search engine optimization. (4 points) – Be sure to include additional resources that you use on a “resources” page at the end of the document.</b>
+<p class="indent">Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO refers to the goal of optimizing our website that its pages will rank high in the search engines that are used to access them. Here are some important factors of SEO:</P>
+<p class="indent1"><b>1.Keyword Research:</b>Keyword Research is the process of finding the actual search terms that people are entering into the search engines.</p>
+<p class="indent1"><b>2.URL Optimization:</b>Website Url structure should be short and keyword rich; Dynamic URL's structure should be avoided. First, 3 to 5 words in a URL structure is more important as it contributes more weight to the website.</p>
+<p class="indent1"><b>3.Meta Tags:</b>Meta Tags is the most important factor of SEO. It has four fundamental components: Meta Title, Meta Description, Meta Keywords, and Meta Robots Tag.</p>
+<p class="indent1"><b>4.Header Tags:</b>Header Tags are pieces of HTML Code that allow us to make certain keywords stand out on a web page. It tells the user what the page is about and also determine whether continue to read it or not.</p>
+<p class="indent1"><b>5.Content Optimization:</b>Content is the king! Professional Content Optimization focuses on using specific keywords in very specific places to send the strongest and high ranking for keyword target.</p> 
+</p>
+<b>Now search for “responsive web design” and after exploring write a paragraph describing this concept. (4 points) Be sure to include additional resources that you use on a “resources” page at the end of the document.</b>
+<p class="indent">Responsive web design or responsive design is an approach to web design that aims to make web pages render well on a variety of devices and window or screen sizes from minimum to maximum display size to ensure usability and satisfaction.<br>
+Responsive design is an approach to web page creation that makes use of flexible layouts, flexible images and cascading style sheet media queries.  The goal of responsive design is to build web pages that detect the visitor’s screen size and orientation and change the layout accordingly.
+</p>
+<p><b>Resources</b></p>
+<p class="indent"><a href="https://www.specbee.com/blogs/top-5-on-page-seo-factors">Top 5 On Page SEO Factors</a></p>
+<p class="indent"><a href="https://www.techtarget.com/whatis/definition/responsive-design">Responsive Web Design</a></p>
+  
+  </body>
+</html>
